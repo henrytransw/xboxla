@@ -8,7 +8,7 @@
 // @match                https://www.xbox.com/*/play*
 // @run-at               document-start
 // @grant                unsafeWindow
-// @require              https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.4.1/jquery.min.js
+// @require              
 // @original-script      
 // @description:zh-cn    整合和修改现有脚本，优化项详见脚本说明。【若你有好的想法或者BUG可以进xbox云游戏QQ交流1群531602832，2群313340764反馈】
 // @description          整合和修改现有脚本，优化项详见脚本说明。【若你有好的想法或者BUG可以进xbox云游戏QQ交流1群531602832，2群313340764反馈】
